@@ -1,0 +1,2 @@
+# Auto-Vagrant
+application stack
